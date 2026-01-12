@@ -1,0 +1,9 @@
+{
+  "TENANT_ID": "seu-tenant-id",
+  "CLIENT_ID": "seu-client-id",
+  "CLIENT_SECRET": "seu-client-secret",
+  "USERNAME": "usuario@dominio.com",
+  "PASSWORD": "sua-senha",
+  "GROUP_ID": "seu-group-id",
+  "DATASET_ID": "seu-dataset-id"
+}
